@@ -22,6 +22,9 @@ Make sure you have the following software installed:
 2. Navigate to the project directory:
 3. Install all PHP dependencies with Composer:
 4. Activate MYSQL and Apache HTTP Server:
-5. Run with 'php artisan serve'
+5. Run with:
+```
+php artisan serve
+```
 
 
